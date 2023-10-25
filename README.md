@@ -6,9 +6,9 @@ This is a list of simple portfolio websites I created using Carrd, a website bui
 
 <img src="filkom.jpg" alt="Filkom website" width="500"/>
 
-This website is an introduction to my faculty and is designed to be used in my Instagram bio. 
+This website is an introduction to my faculty and is designed to be used in the bio. 
 
-Visit my Instagram page [here](https://www.instagram.com/informatikaukim/) for more information.
+Check out Filkom's IG page [here](https://www.instagram.com/informatikaukim/) for more information.
 
 ## Ordinal (https://ordinal-luki.carrd.co/)
 
