@@ -15,7 +15,7 @@ Check out Filkom's IG page [here](https://www.instagram.com/informatikaukim/) fo
 <img src="ordinal1.jpg" alt="Ordinal website" width="500"/>
 This webpage is about my gaming squad.
 
-## Profile (https://imanuel-profil.carrd.co/#)
+## Profile (https://imanuel-profil.carrd.co)
 
-<img src="prfil.jpg" alt="Ordinal website" width="500"/>
+<img src="prfile.jpg" alt="Ordinal website" width="500"/>
 This webpage contain my profile, contact, social and interest that i used in my personal IG bio.
