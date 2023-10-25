@@ -17,5 +17,5 @@ This webpage is about my gaming squad.
 
 ## Profile (https://imanuel-profil.carrd.co)
 
-<img src="prfile.jpg" alt="Ordinal website" width="500"/>
+<img src="profile.jpg" alt="Ordinal website" width="500"/>
 This webpage contain my profile, contact, social and interest that i used in my personal IG bio.
